@@ -1,4 +1,16 @@
-# 🛡️ TASKFLOW AI - INTELLIGENT PRODUCTIVITY ENGINE
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0%2B-blue?style=for-the-badge&logo=kotlin)
+![Compose](https://img.shields.io/badge/Compose-2024.02-green?style=for-the-badge&logo=jetpackcompose)
+![Gradle](https://img.shields.io/badge/Gradle-8.7-lightgrey?style=for-the-badge&logo=gradle)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
+
+# 🚀 TASKFLOW AI
+
+</div>
+
+---
 
 TaskFlow AI is a production-grade Android task management system engineered for high-performance productivity. By integrating Google's Gemini AI with an offline-first architecture, it provides a seamless "zero-latency" experience for creating and organizing tasks through natural language.
 
