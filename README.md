@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
 
-# 🚀 TASKFLOW AI
+# 🛡️ TASKFLOW AI
 
 </div>
 
