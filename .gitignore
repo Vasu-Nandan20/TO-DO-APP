@@ -1,0 +1,25 @@
+# Built variants
+**/build/
+*.apk
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
+*.kotlin_module
+
+# Secrets
+secrets.xml
+google-services.json
